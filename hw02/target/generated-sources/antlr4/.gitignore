@@ -1,0 +1,9 @@
+/MiniC.tokens
+/MiniCBaseListener.java
+/MiniCBaseVisitor.java
+/MiniCLexer.java
+/MiniCLexer.tokens
+/MiniCListener.java
+/MiniCParser.java
+/MiniCPrintVisitor.java
+/MiniCVisitor.java
